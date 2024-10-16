@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(252, 245, 248);
+    display: grid;
+}
+
+h1 {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 0;
+    margin-top: 2em;
+    font-size: xxx-large;
+}
+
+h2 {
+    margin-left: 7.4em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    margin-top: .12em;
+    font-size: small;
+    font-weight: 200;
+}
+
+h3 {
+    margin-left: 4.7em;
+    margin-right: 2em;
+    margin-bottom: 1em;
+    margin-top: 4em;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: monospace;
+}
+
+h4 {
+    padding-left: 7.3em;
+    font-size: medium;
+    font-family: monospace;
+}
+
+main p {
+    padding-left: 7.3em;
+    margin-bottom: 4em;
+    font-size: medium;
+    font-family: monospace;
+}
+
+.lijm-project img {
+    width: 20em;
+}
+
+.lijm-project ul{
+	display: flex;
+    list-style: none;
+	gap: 1em;
+	overflow-x: scroll;
+    padding-left: 5.9em;
+}
+
+.riso img {
+    width: 20em;
+}
+
+.riso ul{
+	display: flex;
+    list-style: none;
+	gap: 1em;
+	overflow-x: scroll;
+    padding-left: 5.9em;
+}
